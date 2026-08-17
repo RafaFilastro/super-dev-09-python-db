@@ -1,4 +1,4 @@
-from conexao_banco import conectar
+from banco_dados import conectar
 
 
 def cadastrar():
